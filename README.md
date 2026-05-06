@@ -14,5 +14,4 @@ An intelligent AI Agent built with **Node.js** that uses the **ReAct (Reasoning 
 - **Styling**: Tailwind CSS CDN
 - **Communication**: OpenAI SDK
 
-## 📋 Requirements & Setup
 
